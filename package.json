@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "react-scripts": "^1.1.4"
+  },
+  "name": "router_homework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/wyncode/front_end_pt_resources.git",
+  "author": "Karla Cortes <kmcortes7@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyncode/front_end_pt_resources/issues"
+  },
+  "homepage": "https://github.com/wyncode/front_end_pt_resources#readme",
+  "description": ""
+}
